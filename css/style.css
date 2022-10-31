@@ -64,15 +64,13 @@ body {
 	font-size: 18px;
 	line-height: 27px;
 	color: #000000;
+	
 }
 
 body.overlay {
 	overflow: hidden;
-} 
-
-.overlay {
-	overflow-y: hidden;
 }
+
 
 
 .header {
