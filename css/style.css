@@ -66,6 +66,10 @@ body {
 	color: #000000;
 }
 
+body.overlay {
+	overflow: hidden;
+} 
+
 .overlay {
 	overflow-y: hidden;
 }
