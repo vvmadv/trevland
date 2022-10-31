@@ -53,14 +53,14 @@
 
 
 @media(max-width:850px) {
-    nav {
+/*     nav {
         position: fixed;
         left: 0;
         right: 0;
         top: 0;
         bottom: 0;
-        overflow: hidden;
-    }
+        overflow: hidden; 
+    } */
     .menu {
         display: flex;
         justify-content: center;
