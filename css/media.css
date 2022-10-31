@@ -73,17 +73,17 @@
         z-index: 4;
         flex-direction: column;
         justify-content: flex-start;
-        padding: 30px;
+/*         padding: 30px; */
         transition: all 0.4s ease;
         overflow: hidden;
     }
 
-    .menu.active {
+      .menu.active {
         display: block;
         left: 0;
         transition: all 0.4s ease;
         position: fixed;
-        
+        padding: 30px;
     }
 
     .menu-list+.menu-list {
