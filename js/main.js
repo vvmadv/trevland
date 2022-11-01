@@ -51,8 +51,8 @@ $(document).ready(function () {
             }
           },
         ]
-    })
-
+    });
+});
 
 $(".mobile-menu").click(function() {
     $(".mobile-menu span").toggleClass('active');
@@ -72,8 +72,8 @@ $(".header-top").removeClass("header-top__fixed")
 $(".header-btn").removeClass("header-btn__fixed")
 $(".menu").removeClass("menu__fixed")
 }
-})
 });
+
 
 
 
